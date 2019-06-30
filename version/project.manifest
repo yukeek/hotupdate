@@ -1,0 +1,1737 @@
+{
+  "assets": {
+    "res/assets/animation/guaiwu001.zip": {
+      "md5": "3657eff99bb4099613dacef475afeceb"
+    }, 
+    "res/assets/animation/guaiwu001/guaiwu001_skeleton.json": {
+      "md5": "f99d42a44d37546d5ec088a47c1a4f93"
+    }, 
+    "res/assets/animation/guaiwu001/guaiwu001_texture.json": {
+      "md5": "bc1ab5103f1ab86c0ca286273a58696d"
+    }, 
+    "res/assets/animation/guaiwu001/guaiwu001_texture.png": {
+      "md5": "36cb4825e13d33fd2d576612f758a8bf"
+    }, 
+    "res/assets/animation/guaiwu002.zip": {
+      "md5": "10d45ee0364142e67d5fd53f2dbda753"
+    }, 
+    "res/assets/animation/guaiwu002/guaiwu002_skeleton.json": {
+      "md5": "cc61c4d75c404b2cab26b95c0b722990"
+    }, 
+    "res/assets/animation/guaiwu002/guaiwu002_texture.json": {
+      "md5": "523c4cac1c07905090004a8fd07d28c1"
+    }, 
+    "res/assets/animation/guaiwu002/guaiwu002_texture.png": {
+      "md5": "944173fe5719eaa6af2963cb8414c6f6"
+    }, 
+    "res/assets/animation/guaiwu002_effect.zip": {
+      "md5": "437396941b9d9e4d2ae0e6bca6ea9689"
+    }, 
+    "res/assets/animation/guaiwu002_effect/guaiwu002_effect_skeleton.json": {
+      "md5": "6e962a1ccf9cc8f8e233c8730903fd9f"
+    }, 
+    "res/assets/animation/guaiwu002_effect/guaiwu002_effect_texture.json": {
+      "md5": "20963a10c28d8a935f527372b392201c"
+    }, 
+    "res/assets/animation/guaiwu002_effect/guaiwu002_effect_texture.png": {
+      "md5": "1e099e8bb7871c9a6369c7a92f0fdfdf"
+    }, 
+    "res/assets/animation/guaiwu003.zip": {
+      "md5": "4a275944239a6511e5d73d9078a2121e"
+    }, 
+    "res/assets/animation/guaiwu003/guaiwu003_skeleton.json": {
+      "md5": "cb951ae6b54564854470d1b6d6e13959"
+    }, 
+    "res/assets/animation/guaiwu003/guaiwu003_texture.json": {
+      "md5": "c5aa18de1de6cd373ce5e025ad451979"
+    }, 
+    "res/assets/animation/guaiwu003/guaiwu003_texture.png": {
+      "md5": "8139c4ae178f029c9b66fafd14fc67a2"
+    }, 
+    "res/assets/animation/guaiwu003_effect.zip": {
+      "md5": "bc2ed632d563a6b790c9cd30d491ecfb"
+    }, 
+    "res/assets/animation/guaiwu003_effect/guaiwu003_effect_skeleton.json": {
+      "md5": "ad80ac2e03ca9564261b91f4ef4056b0"
+    }, 
+    "res/assets/animation/guaiwu003_effect/guaiwu003_effect_texture.json": {
+      "md5": "ac78f694f2c31eacd34b20a0c9c2a577"
+    }, 
+    "res/assets/animation/guaiwu003_effect/guaiwu003_effect_texture.png": {
+      "md5": "d16a87d304de16cf5b0b020466e2c4c1"
+    }, 
+    "res/assets/animation/jineng1.zip": {
+      "md5": "d22953f5d42e57ba2fe2c5c8343ebd59"
+    }, 
+    "res/assets/animation/jineng1/jineng1_skeleton.json": {
+      "md5": "50064a0577d64115bcdf921bc2cf5cb1"
+    }, 
+    "res/assets/animation/jineng1/jineng1_texture.json": {
+      "md5": "b5a7d064362a4cf3b9a374acfd77e076"
+    }, 
+    "res/assets/animation/jineng1/jineng1_texture.png": {
+      "md5": "2f3865b9b96b2f0c9a763b25ca9a9396"
+    }, 
+    "res/assets/animation/jineng2.zip": {
+      "md5": "3064edecac1312c555c22f69d6152130"
+    }, 
+    "res/assets/animation/jineng2/jineng2_skeleton.json": {
+      "md5": "e5765b760621caf11db5fedb3fa04425"
+    }, 
+    "res/assets/animation/jineng2/jineng2_texture.json": {
+      "md5": "305a877c25c2eb61f3bb67a01779584c"
+    }, 
+    "res/assets/animation/jineng2/jineng2_texture.png": {
+      "md5": "4daf1d737603fc315a1672605bc25205"
+    }, 
+    "res/assets/animation/zhujue1.zip": {
+      "md5": "6a55a60e2866e19b7710a2e263688664"
+    }, 
+    "res/assets/animation/zhujue1/zhujue1_skeleton.json": {
+      "md5": "7ab6f7abc42d155d78ca911ef8e62723"
+    }, 
+    "res/assets/animation/zhujue1/zhujue1_texture.json": {
+      "md5": "76498fce8be3519f714f6d31b2715fc3"
+    }, 
+    "res/assets/animation/zhujue1/zhujue1_texture.png": {
+      "md5": "8f96255889289f4c7a16bfff2c136303"
+    }, 
+    "res/assets/animation/zhujue2.zip": {
+      "md5": "bc2c47dc8b0ce40f2b4ddd481e330e8b"
+    }, 
+    "res/assets/animation/zhujue2/zhujue2_skeleton.json": {
+      "md5": "c2960d1fddac802c157a19458ab4c904"
+    }, 
+    "res/assets/animation/zhujue2/zhujue2_texture.json": {
+      "md5": "10326f8895c79c35f1e89f6ffba0b553"
+    }, 
+    "res/assets/animation/zhujue2/zhujue2_texture.png": {
+      "md5": "f1224e432af4667c696062f7e15deddc"
+    }, 
+    "res/assets/bg.jpg": {
+      "md5": "91cbbd53069ebdd673a9bdbae466e85a"
+    }, 
+    "res/assets/bg/map.jpg": {
+      "md5": "cdc94406acf3da6481bf413d913024c0"
+    }, 
+    "res/assets/egret_icon.png": {
+      "md5": "62bdf4605c690932c482532c48f6083c"
+    }, 
+    "res/assets/example/bbs.png": {
+      "md5": "203e6a0c5816c46ad0db906762da802a"
+    }, 
+    "res/assets/example/btn_activity.png": {
+      "md5": "4bf41bc4e5d6da7162889c0bf8c010e3"
+    }, 
+    "res/assets/example/btn_mail.png": {
+      "md5": "529f33bb3ad38cad429b18315735bfda"
+    }, 
+    "res/assets/example/btn_mission.png": {
+      "md5": "c678da0c5ed73f1eefdafb431955404e"
+    }, 
+    "res/assets/example/btn_shrink.png": {
+      "md5": "378d9363f440e38af5d4061e1e6013a4"
+    }, 
+    "res/assets/example/btn_shrink_bg.png": {
+      "md5": "798d890b31902c235fbf2fb5638e2fcc"
+    }, 
+    "res/assets/example/btn_wrong.png": {
+      "md5": "7fc6f7c9c4424212618e8c5890827f57"
+    }, 
+    "res/assets/example/card_bg.png": {
+      "md5": "2cb63b704836cca0d6b2a8a09b202e69"
+    }, 
+    "res/assets/example/icon_02.png": {
+      "md5": "d02107fb46f0cdb74b281190b53d5c67"
+    }, 
+    "res/assets/example/icon_LV.png": {
+      "md5": "3128d9586f85465862f163ee1d530fcd"
+    }, 
+    "res/assets/example/icon_badge.png": {
+      "md5": "baf33e86ab0b98c2f664abb72b9eb4d4"
+    }, 
+    "res/assets/example/icon_diamond.png": {
+      "md5": "963e4fc276c9004c01f10ea87863f463"
+    }, 
+    "res/assets/example/icon_experience.png": {
+      "md5": "e59072a72a25128b51acdc23b58194ef"
+    }, 
+    "res/assets/example/icon_factory.png": {
+      "md5": "3d0f3bafbf1fda319233da0d277bae72"
+    }, 
+    "res/assets/example/icon_factory_tittle.png": {
+      "md5": "ec71199f4c103c9c3c69df55d470a009"
+    }, 
+    "res/assets/example/icon_fertilization.png": {
+      "md5": "2a465da327220b66254059d82a33d4e5"
+    }, 
+    "res/assets/example/icon_fertilizer02.png": {
+      "md5": "bd55a811921f8ceed3b3fb581db3b333"
+    }, 
+    "res/assets/example/icon_fertilizer03.png": {
+      "md5": "46b6fa1345cd58bc8d784d7277a58c90"
+    }, 
+    "res/assets/example/icon_fertilizer04.png": {
+      "md5": "0ad1189edbc57e20852dc4e12a7e7d19"
+    }, 
+    "res/assets/example/icon_fertilizer05.png": {
+      "md5": "ca8e221579a5fa19f74328bf4cb8f2d4"
+    }, 
+    "res/assets/example/icon_friend.png": {
+      "md5": "99d340476c91d517f50d1ca516f2da76"
+    }, 
+    "res/assets/example/icon_gold.png": {
+      "md5": "1e29a69233640f550ef3098182809307"
+    }, 
+    "res/assets/example/icon_head.png": {
+      "md5": "6e3af5eca9e318a4e77b34891a69bd34"
+    }, 
+    "res/assets/example/icon_line.png": {
+      "md5": "37f6a745e8ff7f1fc200a3a08998b7d5"
+    }, 
+    "res/assets/example/icon_more.png": {
+      "md5": "f5b297b2c09f7cffb80aae5f4b98bf7c"
+    }, 
+    "res/assets/example/icon_name.png": {
+      "md5": "f9a3c8097a747e47cfd78f15a46f8cbf"
+    }, 
+    "res/assets/example/icon_sale.png": {
+      "md5": "5b94eeebefb424a23a86a0a05cd76526"
+    }, 
+    "res/assets/example/icon_shop.png": {
+      "md5": "45e32bddbfdee5ce3ff1e66c591358dd"
+    }, 
+    "res/assets/example/icon_warehouse.png": {
+      "md5": "d3c05a586517d2f77b0814b3292b63cd"
+    }, 
+    "res/assets/example/menu_bg.png": {
+      "md5": "10b7f0a7dc07f1fa7047b08a1aab950e"
+    }, 
+    "res/assets/example/sto_table_tittle.png": {
+      "md5": "88f88860e6e3c303bd6cf1157cbc5eb7"
+    }, 
+    "res/assets/example/tabBar_down.png": {
+      "md5": "0c7170bf35f62a8360126dae753e070f"
+    }, 
+    "res/assets/example/tabBar_selected_down.png": {
+      "md5": "cb76307a548dfdc0e333b7c994033e68"
+    }, 
+    "res/assets/example/table_activity.png": {
+      "md5": "a75688aadfcfc6eeac0d795930eb2cd6"
+    }, 
+    "res/assets/example/table_bg.png": {
+      "md5": "0f608a914ff8c29c47cb0e792af421eb"
+    }, 
+    "res/assets/example/table_box_down.png": {
+      "md5": "8054ba2024c7264bb6d0c9ba9109b189"
+    }, 
+    "res/assets/example/table_box_down_.png": {
+      "md5": "42a6a7ce6b7e4627cedb2e86e126728b"
+    }, 
+    "res/assets/example/table_box_middle.png": {
+      "md5": "b898a6c265a362d04634cf1f503f7a8c"
+    }, 
+    "res/assets/example/table_box_up.png": {
+      "md5": "da44d7a98256c93003836aa3b553366b"
+    }, 
+    "res/assets/example/table_cloud.png": {
+      "md5": "0a8b204d7f9df9954866f6963311a0c3"
+    }, 
+    "res/assets/example/table_cloud1.png": {
+      "md5": "dad09fc789a812d4909872f9a7842ca4"
+    }, 
+    "res/assets/example/table_mail.png": {
+      "md5": "64917d0800b5a72e84abae0b56a3a295"
+    }, 
+    "res/assets/example/table_shop.png": {
+      "md5": "1b14cefa9cbaa72b41e1a49a451b80f3"
+    }, 
+    "res/assets/example/table_task.png": {
+      "md5": "4817323ac7dd330433fedf4ed6817487"
+    }, 
+    "res/assets/example/table_tittle.png": {
+      "md5": "5676ec8de4aeca61465a221a7d2663cc"
+    }, 
+    "res/assets/example/table_warehouse.png": {
+      "md5": "a16b814978bb484cfe9e399ddccf8457"
+    }, 
+    "res/assets/example/task_bg.png": {
+      "md5": "8995d87b130dd9bde7a2a77233087ec4"
+    }, 
+    "res/assets/example/text_fertilizer01.png": {
+      "md5": "f8ed0107a2c008e3ac5add963630d183"
+    }, 
+    "res/assets/example/text_fertilizer02.png": {
+      "md5": "29e08017a91247694134a109f2ac40b3"
+    }, 
+    "res/assets/example/text_fruit_01.png": {
+      "md5": "634bead9a41f38bbc883f23703995952"
+    }, 
+    "res/assets/example/text_fruit_02.png": {
+      "md5": "2901d31ae93a35629742a965f9042b11"
+    }, 
+    "res/assets/example/text_fruit_juice_01.png": {
+      "md5": "9a370858cacfd84284177d1c68a532d7"
+    }, 
+    "res/assets/example/text_fruit_juice_02.png": {
+      "md5": "1888a4f140f7d767e92b2d8312c94bbf"
+    }, 
+    "res/assets/example/text_seed01.png": {
+      "md5": "4c07aae6237b06ec0e6b2fc5b444cdd0"
+    }, 
+    "res/assets/example/text_seed02.png": {
+      "md5": "255d92e9b8a648b09538a8a16102ecf7"
+    }, 
+    "res/assets/load_Reel.png": {
+      "md5": "a500701b3b6127bcd96f153c83a6393b"
+    }, 
+    "res/assets/rpgGame/avatarDefault.png": {
+      "md5": "070497339ae932ac1d6ae2dd0b68e78d"
+    }, 
+    "res/assets/rpgGame/map/1193/0_0.jpg": {
+      "md5": "965d9556f0497e667326c02581bc334b"
+    }, 
+    "res/assets/rpgGame/map/1193/0_1.jpg": {
+      "md5": "5fe3afaad5f8e4db9440d84e7e1d31f8"
+    }, 
+    "res/assets/rpgGame/map/1193/0_10.jpg": {
+      "md5": "31ff33492023f73f78e73f361022767b"
+    }, 
+    "res/assets/rpgGame/map/1193/0_11.jpg": {
+      "md5": "3186e0f3eef10697523d106d68c96cda"
+    }, 
+    "res/assets/rpgGame/map/1193/0_12.jpg": {
+      "md5": "1e33ac3fc787fe9a00413acb768ebf77"
+    }, 
+    "res/assets/rpgGame/map/1193/0_2.jpg": {
+      "md5": "8caf3c2e6c668fe4e3ed1b247abda2b3"
+    }, 
+    "res/assets/rpgGame/map/1193/0_3.jpg": {
+      "md5": "cf8dc9c0c72c6d8adf9b101b15e15bc4"
+    }, 
+    "res/assets/rpgGame/map/1193/0_4.jpg": {
+      "md5": "15a29cb0e59e561a54f59e324b0c2cc0"
+    }, 
+    "res/assets/rpgGame/map/1193/0_5.jpg": {
+      "md5": "eab3dffb29b9c2c098140950f40bd946"
+    }, 
+    "res/assets/rpgGame/map/1193/0_6.jpg": {
+      "md5": "6689333acb3ef7b24c6615855917289e"
+    }, 
+    "res/assets/rpgGame/map/1193/0_7.jpg": {
+      "md5": "da02cbbdce44cf132ccb865521c24ec5"
+    }, 
+    "res/assets/rpgGame/map/1193/0_8.jpg": {
+      "md5": "f54127f17d66ab3876bfc5e01a8d03b3"
+    }, 
+    "res/assets/rpgGame/map/1193/0_9.jpg": {
+      "md5": "4aed7483b5c8a1431dcf04131d46c657"
+    }, 
+    "res/assets/rpgGame/map/1193/1_0.jpg": {
+      "md5": "954020e30e6577eec821740863ff3da0"
+    }, 
+    "res/assets/rpgGame/map/1193/1_1.jpg": {
+      "md5": "4aeea85921a16fd752b10fc22300345e"
+    }, 
+    "res/assets/rpgGame/map/1193/1_10.jpg": {
+      "md5": "21d70276afb4c7fb3c4389aa0d05b4d0"
+    }, 
+    "res/assets/rpgGame/map/1193/1_11.jpg": {
+      "md5": "be46e9a6ac44aec4ed9dbdc185b416d5"
+    }, 
+    "res/assets/rpgGame/map/1193/1_12.jpg": {
+      "md5": "17dd9fc36ef058a0980411c12a2f3e9a"
+    }, 
+    "res/assets/rpgGame/map/1193/1_2.jpg": {
+      "md5": "4e09be42416a020557e3a47c60a9806f"
+    }, 
+    "res/assets/rpgGame/map/1193/1_3.jpg": {
+      "md5": "dd6b4e47a41d6852923017546e6ee0d9"
+    }, 
+    "res/assets/rpgGame/map/1193/1_4.jpg": {
+      "md5": "f9d53bc6a415fd81b5fdd72342cd9b51"
+    }, 
+    "res/assets/rpgGame/map/1193/1_5.jpg": {
+      "md5": "51bab5db4eb149d7e048ecc0b20e748c"
+    }, 
+    "res/assets/rpgGame/map/1193/1_6.jpg": {
+      "md5": "2a8bc14a48a197032c8b1e41e9da37a3"
+    }, 
+    "res/assets/rpgGame/map/1193/1_7.jpg": {
+      "md5": "ec5f3299dd0c920a73a14fa643119f88"
+    }, 
+    "res/assets/rpgGame/map/1193/1_8.jpg": {
+      "md5": "99b4a0ceeced78bc6e2cc41440300ada"
+    }, 
+    "res/assets/rpgGame/map/1193/1_9.jpg": {
+      "md5": "c07c89f22b35b40da84e99c024e28d96"
+    }, 
+    "res/assets/rpgGame/map/1193/2_0.jpg": {
+      "md5": "3151a8c58aaa2cd832f0735c23ebfafc"
+    }, 
+    "res/assets/rpgGame/map/1193/2_1.jpg": {
+      "md5": "2ad746d518bba65632ed2a98e45a904f"
+    }, 
+    "res/assets/rpgGame/map/1193/2_10.jpg": {
+      "md5": "cc9e285eab15f40ec5a2a806ce19fdf8"
+    }, 
+    "res/assets/rpgGame/map/1193/2_11.jpg": {
+      "md5": "3777175b0a7e4335aefa4aa5cd4ee4ce"
+    }, 
+    "res/assets/rpgGame/map/1193/2_12.jpg": {
+      "md5": "4c6fd1d0a4002f775cd33907de8d2fa1"
+    }, 
+    "res/assets/rpgGame/map/1193/2_2.jpg": {
+      "md5": "29a59e34bfcedf67cc99458648ea9128"
+    }, 
+    "res/assets/rpgGame/map/1193/2_3.jpg": {
+      "md5": "ea4f286a79d5f85c466764ac569040ec"
+    }, 
+    "res/assets/rpgGame/map/1193/2_4.jpg": {
+      "md5": "32d21f7f7ed2e103f301b0d749f2ddad"
+    }, 
+    "res/assets/rpgGame/map/1193/2_5.jpg": {
+      "md5": "6abe4a975a835dbe8db160b6bad4b19c"
+    }, 
+    "res/assets/rpgGame/map/1193/2_6.jpg": {
+      "md5": "61097e7e67558e2b763263f9c19aec17"
+    }, 
+    "res/assets/rpgGame/map/1193/2_7.jpg": {
+      "md5": "a657b0a503e25979c6808920c4a04ed1"
+    }, 
+    "res/assets/rpgGame/map/1193/2_8.jpg": {
+      "md5": "92c4bbe3ffdd1a6de9a939e9fd8ebb38"
+    }, 
+    "res/assets/rpgGame/map/1193/2_9.jpg": {
+      "md5": "f9a50849f35ad36be182df34bd5e9221"
+    }, 
+    "res/assets/rpgGame/map/1193/3_0.jpg": {
+      "md5": "85085a5864b10e41a317a7ccc2bccbd5"
+    }, 
+    "res/assets/rpgGame/map/1193/3_1.jpg": {
+      "md5": "9ea93f4a296f591642aec1ac91276f0c"
+    }, 
+    "res/assets/rpgGame/map/1193/3_10.jpg": {
+      "md5": "f875e636079e0ec60a2919fe0013429a"
+    }, 
+    "res/assets/rpgGame/map/1193/3_11.jpg": {
+      "md5": "8f9278007055979ca4c7b125fe353a1f"
+    }, 
+    "res/assets/rpgGame/map/1193/3_12.jpg": {
+      "md5": "10a2e44558623d71769d10cb60a1c303"
+    }, 
+    "res/assets/rpgGame/map/1193/3_2.jpg": {
+      "md5": "1d11b05aa9de0c5a56837bbee26f6ef4"
+    }, 
+    "res/assets/rpgGame/map/1193/3_3.jpg": {
+      "md5": "3ae049940d14cf8cab67d6601b5cb46b"
+    }, 
+    "res/assets/rpgGame/map/1193/3_4.jpg": {
+      "md5": "ae81c849812b7c8d3d96fccc92bbb90a"
+    }, 
+    "res/assets/rpgGame/map/1193/3_5.jpg": {
+      "md5": "2097c3a11e6c91984048893e3a83430b"
+    }, 
+    "res/assets/rpgGame/map/1193/3_6.jpg": {
+      "md5": "291a8baa7e82d76f9cbb378242704b8d"
+    }, 
+    "res/assets/rpgGame/map/1193/3_7.jpg": {
+      "md5": "7f0860aa6314a216f13f0f6a8a705cce"
+    }, 
+    "res/assets/rpgGame/map/1193/3_8.jpg": {
+      "md5": "e48cbcc003e9b36521d309b773e7b91e"
+    }, 
+    "res/assets/rpgGame/map/1193/3_9.jpg": {
+      "md5": "8c53ca9c8c900e42c0777bbb70d2d6ed"
+    }, 
+    "res/assets/rpgGame/map/1193/4_0.jpg": {
+      "md5": "30efa6142bc6484613aa8e00531a78ad"
+    }, 
+    "res/assets/rpgGame/map/1193/4_1.jpg": {
+      "md5": "58446fca6f332ca8405188f43eac2240"
+    }, 
+    "res/assets/rpgGame/map/1193/4_10.jpg": {
+      "md5": "2ae0c60f41bebe795cbb07261161cfab"
+    }, 
+    "res/assets/rpgGame/map/1193/4_11.jpg": {
+      "md5": "2aa7e2819766f924702dac230ae908c1"
+    }, 
+    "res/assets/rpgGame/map/1193/4_12.jpg": {
+      "md5": "5a9d986728e09871c46d8ae7eb437a0f"
+    }, 
+    "res/assets/rpgGame/map/1193/4_2.jpg": {
+      "md5": "56392d2a8c11b2ade469339ea707e3cc"
+    }, 
+    "res/assets/rpgGame/map/1193/4_3.jpg": {
+      "md5": "e562659d4d64860a9764f7374745f6eb"
+    }, 
+    "res/assets/rpgGame/map/1193/4_4.jpg": {
+      "md5": "a8456cce819c6a76edf21c0fb220e283"
+    }, 
+    "res/assets/rpgGame/map/1193/4_5.jpg": {
+      "md5": "584a01dc8c538dff9a73cf0ad9bc8ceb"
+    }, 
+    "res/assets/rpgGame/map/1193/4_6.jpg": {
+      "md5": "1227e05f60872bcbfd52bffa2b72f6e4"
+    }, 
+    "res/assets/rpgGame/map/1193/4_7.jpg": {
+      "md5": "013c28f38fcfd1bbaf97d455c8ae4247"
+    }, 
+    "res/assets/rpgGame/map/1193/4_8.jpg": {
+      "md5": "4e721256f8ed87eedc6092d7f2884aba"
+    }, 
+    "res/assets/rpgGame/map/1193/4_9.jpg": {
+      "md5": "d595a1522c22e5c32949f93ddbd82803"
+    }, 
+    "res/assets/rpgGame/map/1193/5_0.jpg": {
+      "md5": "36240647a0783f8bdbe0b61d3a88e3d1"
+    }, 
+    "res/assets/rpgGame/map/1193/5_1.jpg": {
+      "md5": "a355ed2044951c871fe2c7f1b6c6cea6"
+    }, 
+    "res/assets/rpgGame/map/1193/5_10.jpg": {
+      "md5": "f609f765690b78b846965467b63c3aa4"
+    }, 
+    "res/assets/rpgGame/map/1193/5_11.jpg": {
+      "md5": "a1f4b0c9cc2430ce827cfcb60425d91c"
+    }, 
+    "res/assets/rpgGame/map/1193/5_12.jpg": {
+      "md5": "e9a760df34d3f58490a77f62a228eea4"
+    }, 
+    "res/assets/rpgGame/map/1193/5_2.jpg": {
+      "md5": "dc003dd200af617bc48ec95d9b9442a3"
+    }, 
+    "res/assets/rpgGame/map/1193/5_3.jpg": {
+      "md5": "d456198bbe40169c9062c16ac30a990c"
+    }, 
+    "res/assets/rpgGame/map/1193/5_4.jpg": {
+      "md5": "39148a73d8448a896cf20cf5719a2ca5"
+    }, 
+    "res/assets/rpgGame/map/1193/5_5.jpg": {
+      "md5": "2925182ed155c5f3ca98066f0673054c"
+    }, 
+    "res/assets/rpgGame/map/1193/5_6.jpg": {
+      "md5": "6d7e3618529ef6d9477afd5ae304c35d"
+    }, 
+    "res/assets/rpgGame/map/1193/5_7.jpg": {
+      "md5": "4d1dd0f5b7a17e25f4ae89d7da5152dd"
+    }, 
+    "res/assets/rpgGame/map/1193/5_8.jpg": {
+      "md5": "6e61cd7abb47059f27801a68db13cc12"
+    }, 
+    "res/assets/rpgGame/map/1193/5_9.jpg": {
+      "md5": "e3db1818cb2596732706f1e249223466"
+    }, 
+    "res/assets/rpgGame/map/1193/6_0.jpg": {
+      "md5": "e1db48d35289c4e3cd641046a6504b17"
+    }, 
+    "res/assets/rpgGame/map/1193/6_1.jpg": {
+      "md5": "864c0e572659011bfd886ca8fbc55610"
+    }, 
+    "res/assets/rpgGame/map/1193/6_10.jpg": {
+      "md5": "bf1eb207abaf283b558206dcd81f6d4f"
+    }, 
+    "res/assets/rpgGame/map/1193/6_11.jpg": {
+      "md5": "b6c59da804bc36a383c824c498622535"
+    }, 
+    "res/assets/rpgGame/map/1193/6_12.jpg": {
+      "md5": "5f66c7bc5a5fe5525de6a668719f08b7"
+    }, 
+    "res/assets/rpgGame/map/1193/6_2.jpg": {
+      "md5": "edc8b674e9cd8fe6c2ffee5aff5dbfde"
+    }, 
+    "res/assets/rpgGame/map/1193/6_3.jpg": {
+      "md5": "54c54db76244c18d88efdaf8b971f189"
+    }, 
+    "res/assets/rpgGame/map/1193/6_4.jpg": {
+      "md5": "dae8063559716b155914048648c2da85"
+    }, 
+    "res/assets/rpgGame/map/1193/6_5.jpg": {
+      "md5": "0ed041e7b3ea061b00fed1862bc39231"
+    }, 
+    "res/assets/rpgGame/map/1193/6_6.jpg": {
+      "md5": "768b4191d4f92a3dfd66fcd72f18846f"
+    }, 
+    "res/assets/rpgGame/map/1193/6_7.jpg": {
+      "md5": "bf43869787da528898f7ddb80d319e4e"
+    }, 
+    "res/assets/rpgGame/map/1193/6_8.jpg": {
+      "md5": "016b70e97895559f1b9b230af3f05f36"
+    }, 
+    "res/assets/rpgGame/map/1193/6_9.jpg": {
+      "md5": "bfeac75159a6d1db4f25cfcc5716b979"
+    }, 
+    "res/assets/rpgGame/map/1193/7_0.jpg": {
+      "md5": "f7cf52f6181938921778165bee3ed871"
+    }, 
+    "res/assets/rpgGame/map/1193/7_1.jpg": {
+      "md5": "d4dec0a6fd79c93d07281da1c7a3073a"
+    }, 
+    "res/assets/rpgGame/map/1193/7_10.jpg": {
+      "md5": "691ac0c4064bffca27dc5351c9f589dd"
+    }, 
+    "res/assets/rpgGame/map/1193/7_11.jpg": {
+      "md5": "bffab2ac9655e33675df25d2fa2f32b4"
+    }, 
+    "res/assets/rpgGame/map/1193/7_12.jpg": {
+      "md5": "b0e950b3b62575e0b10a4a5e761c37e5"
+    }, 
+    "res/assets/rpgGame/map/1193/7_2.jpg": {
+      "md5": "a3153ea75d7bb820318a2dc2a4ad2b77"
+    }, 
+    "res/assets/rpgGame/map/1193/7_3.jpg": {
+      "md5": "8f7b3ac7bc3bbda89365289c9201832e"
+    }, 
+    "res/assets/rpgGame/map/1193/7_4.jpg": {
+      "md5": "9f289336a9b4846350fdef6251fe9a97"
+    }, 
+    "res/assets/rpgGame/map/1193/7_5.jpg": {
+      "md5": "3163ea6af78ba0c5a87617a7571ac675"
+    }, 
+    "res/assets/rpgGame/map/1193/7_6.jpg": {
+      "md5": "ed761e648ecda9f3bc3d9323663f656a"
+    }, 
+    "res/assets/rpgGame/map/1193/7_7.jpg": {
+      "md5": "8e08481cf120854ed588dfecbe027790"
+    }, 
+    "res/assets/rpgGame/map/1193/7_8.jpg": {
+      "md5": "84fa4c0a832fbd3e06b5ff3a6ef7e295"
+    }, 
+    "res/assets/rpgGame/map/1193/7_9.jpg": {
+      "md5": "4a79c8e936de2c7307ab30374433fe0b"
+    }, 
+    "res/assets/rpgGame/map/1193/8_0.jpg": {
+      "md5": "3c63a0e9401f0f140ec7e8d28854eb21"
+    }, 
+    "res/assets/rpgGame/map/1193/8_1.jpg": {
+      "md5": "f06e252e3ae9d8c215e9f78e6d0d5f56"
+    }, 
+    "res/assets/rpgGame/map/1193/8_10.jpg": {
+      "md5": "894c71d2bc8269b213a80135c8a908c3"
+    }, 
+    "res/assets/rpgGame/map/1193/8_11.jpg": {
+      "md5": "9c1aff09d050b8be04bf6615ccd2f4d4"
+    }, 
+    "res/assets/rpgGame/map/1193/8_12.jpg": {
+      "md5": "fc1107f1bc9c257881d2005d5b697d67"
+    }, 
+    "res/assets/rpgGame/map/1193/8_2.jpg": {
+      "md5": "3a92f9262bb055a2bbb8a78e2758faad"
+    }, 
+    "res/assets/rpgGame/map/1193/8_3.jpg": {
+      "md5": "509437735755748ffadaf3be2698f604"
+    }, 
+    "res/assets/rpgGame/map/1193/8_4.jpg": {
+      "md5": "2a9dad324658516ed56e463f41bda1a8"
+    }, 
+    "res/assets/rpgGame/map/1193/8_5.jpg": {
+      "md5": "0787369b0c64ad74af81f66b0e5e9102"
+    }, 
+    "res/assets/rpgGame/map/1193/8_6.jpg": {
+      "md5": "a68a0275435e2528d8e13b7a70486cc9"
+    }, 
+    "res/assets/rpgGame/map/1193/8_7.jpg": {
+      "md5": "f5d9befa20f8f99ddcea9db6a5e1f4a0"
+    }, 
+    "res/assets/rpgGame/map/1193/8_8.jpg": {
+      "md5": "40f1191983effc22e6dc139839c9293b"
+    }, 
+    "res/assets/rpgGame/map/1193/8_9.jpg": {
+      "md5": "656827d959a6ac50892d950a29bd5285"
+    }, 
+    "res/assets/rpgGame/map/1193/9_0.jpg": {
+      "md5": "a28717b3da278a535b6547e44771cf1b"
+    }, 
+    "res/assets/rpgGame/map/1193/9_1.jpg": {
+      "md5": "dfaa5fb25137268f7745cce35c2af406"
+    }, 
+    "res/assets/rpgGame/map/1193/9_10.jpg": {
+      "md5": "d8d435e4b37e452ba32dad4587103d53"
+    }, 
+    "res/assets/rpgGame/map/1193/9_11.jpg": {
+      "md5": "510367b49199d1a7f9fb5a920a4b3bad"
+    }, 
+    "res/assets/rpgGame/map/1193/9_12.jpg": {
+      "md5": "1951b5d2053500781168514a02f4892f"
+    }, 
+    "res/assets/rpgGame/map/1193/9_2.jpg": {
+      "md5": "5b58b1ec34d285683b1e69f19c6c8c7f"
+    }, 
+    "res/assets/rpgGame/map/1193/9_3.jpg": {
+      "md5": "bb53371b8b90002c68da0853cd6e971a"
+    }, 
+    "res/assets/rpgGame/map/1193/9_4.jpg": {
+      "md5": "945dbedc2b6388dbd0bac619cc4d110b"
+    }, 
+    "res/assets/rpgGame/map/1193/9_5.jpg": {
+      "md5": "bd406ca3da8c18b6c5f57f32f5431e45"
+    }, 
+    "res/assets/rpgGame/map/1193/9_6.jpg": {
+      "md5": "5bb081d032cf608d403179e57fb18808"
+    }, 
+    "res/assets/rpgGame/map/1193/9_7.jpg": {
+      "md5": "978ebebdaadc595ec79d8780aa19f84f"
+    }, 
+    "res/assets/rpgGame/map/1193/9_8.jpg": {
+      "md5": "1994a12c3232e55f81a76cab56c38b1f"
+    }, 
+    "res/assets/rpgGame/map/1193/9_9.jpg": {
+      "md5": "7a757430f2fd25c9134b12a1a3eab579"
+    }, 
+    "res/assets/rpgGame/map/1193/data.json": {
+      "md5": "e4103b0fcee1151b6241192fba59514d"
+    }, 
+    "res/assets/rpgGame/map/1193/mini.jpg": {
+      "md5": "2d64fdfee9c7ccfa10005aac3a45079c"
+    }, 
+    "res/assets/rpgGame/monster/monster_0.json": {
+      "md5": "ba32d08c7609c2d71b36b190d475822b"
+    }, 
+    "res/assets/rpgGame/monster/monster_0.png": {
+      "md5": "571ac8660d99b7b7c13621dd14c6e78f"
+    }, 
+    "res/assets/rpgGame/monster/monster_1.json": {
+      "md5": "ff0a784e77db2535a1a01930a11d57f4"
+    }, 
+    "res/assets/rpgGame/monster/monster_1.png": {
+      "md5": "fe1abc84b50d20a9cb987930d1d14c3f"
+    }, 
+    "res/assets/rpgGame/monster/monster_2.json": {
+      "md5": "9f6017af98a5d2d2de20c622ce02ed0e"
+    }, 
+    "res/assets/rpgGame/monster/monster_2.png": {
+      "md5": "6c4aa0f2152eb26149df500739ce4f0b"
+    }, 
+    "res/assets/rpgGame/monster/monster_3.json": {
+      "md5": "6cd4d2346ae1529006de938cf939b558"
+    }, 
+    "res/assets/rpgGame/monster/monster_3.png": {
+      "md5": "4aedb7006009c00851188082a239492d"
+    }, 
+    "res/assets/rpgGame/monster/monster_4.json": {
+      "md5": "2bc15452d1e298fd92d72ecd39a3be04"
+    }, 
+    "res/assets/rpgGame/monster/monster_4.png": {
+      "md5": "8f71d07bea3cabc1008058c58a46e631"
+    }, 
+    "res/assets/rpgGame/monster/monster_5.json": {
+      "md5": "7fc2c1de1998674803b6a92f69355dae"
+    }, 
+    "res/assets/rpgGame/monster/monster_5.png": {
+      "md5": "2c89c9a6f7efb7cd0bab9538926d5e6e"
+    }, 
+    "res/assets/rpgGame/monster/monster_6.json": {
+      "md5": "54898c881d19ce87341b2ea4b0853386"
+    }, 
+    "res/assets/rpgGame/monster/monster_6.png": {
+      "md5": "3f57874ad2fb6cdd22c6ee288a1ddbb7"
+    }, 
+    "res/assets/rpgGame/monster/monster_7.json": {
+      "md5": "aaa13c53f15cf5e7e5d583708888a767"
+    }, 
+    "res/assets/rpgGame/monster/monster_7.png": {
+      "md5": "5e74253ecc6e8c31663b3d3a8553a279"
+    }, 
+    "res/assets/rpgGame/monster/monster_8.json": {
+      "md5": "f94f773eb63ba5a1aee7f01d2987cded"
+    }, 
+    "res/assets/rpgGame/monster/monster_8.png": {
+      "md5": "ded6a80eafc02583d33a9f9c33275b65"
+    }, 
+    "res/assets/rpgGame/monster/monster_9.json": {
+      "md5": "b53a2ad18b0160439980ea1086705bc1"
+    }, 
+    "res/assets/rpgGame/monster/monster_9.png": {
+      "md5": "a1a1523a1602330bbc7dd8d1e01ccbec"
+    }, 
+    "res/assets/rpgGame/player/aaa.json": {
+      "md5": "b7417df2c08e1cd6c484d016fce8cd1b"
+    }, 
+    "res/assets/rpgGame/player/aaa.png": {
+      "md5": "3fb4c336bc9b0e8f6f877b1c2e37218a"
+    }, 
+    "res/assets/rpgGame/player/scenePlayer_0.json": {
+      "md5": "d791cc11558da1cd43a0cdf5305fade7"
+    }, 
+    "res/assets/rpgGame/player/scenePlayer_0.png": {
+      "md5": "5694b446c939373c930d696f4e3bd7d3"
+    }, 
+    "res/assets/rpgGame/skill/scenePlayer_0_attack.json": {
+      "md5": "7f461614ee93a720355961e408e2502f"
+    }, 
+    "res/assets/rpgGame/skill/scenePlayer_0_attack.png": {
+      "md5": "319b8c69cd127767c27539bac2d85dee"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-select_disabled.png": {
+      "md5": "c8d5ac0916f139c1f82bb0b635e7b8d1"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-select_normal.png": {
+      "md5": "1a4353782fceb43a213e3d916f84b47d"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-select_over.png": {
+      "md5": "f38685220698bdf2932908e498cd80ff"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-unselect_disabled.png": {
+      "md5": "cc38451a647d1907a3c86cb14c689f89"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-unselect_normal.png": {
+      "md5": "601bb766d54f98bf18dc28c654c12e34"
+    }, 
+    "res/assets/simple/CheckBox/checkbox-unselect_over.png": {
+      "md5": "36dadb450977131a184172c32ef1548e"
+    }, 
+    "res/assets/simple/DropdownList/DropDownListButtonSkin_down.png": {
+      "md5": "8490d037e683df46ad2ddc9f41d617c5"
+    }, 
+    "res/assets/simple/DropdownList/DropDownListButtonSkin_up.png": {
+      "md5": "ef29ae401160337f6d34013a444d058c"
+    }, 
+    "res/assets/simple/DropdownList/dropdownlist_arrow_down.png": {
+      "md5": "f9a748c1280bbdb73e4995f03ab26bf2"
+    }, 
+    "res/assets/simple/DropdownList/dropdownlist_arrow_up.png": {
+      "md5": "2587131a2368146cf6e1244d2b42cd94"
+    }, 
+    "res/assets/simple/HScrollBar/hscrollbtn.png": {
+      "md5": "1ac5f74131f787bc898252b076933712"
+    }, 
+    "res/assets/simple/HScrollBar/hscrolltrack.png": {
+      "md5": "830afe9e352561e0c83e0ff637e412a4"
+    }, 
+    "res/assets/simple/HSlider/HSlider_fill.png": {
+      "md5": "0a486d346e93e76edf5f157f33d4ef21"
+    }, 
+    "res/assets/simple/HSlider/HSlider_thumb.png": {
+      "md5": "c637bc988999f04dd60ac76d9327676b"
+    }, 
+    "res/assets/simple/HSlider/HSlider_track.png": {
+      "md5": "56c8938dba126e8fa4413e8a87d89e9f"
+    }, 
+    "res/assets/simple/ItemRenderer/app_list_item_cutlline.png": {
+      "md5": "54e648fcd4a7ed19cbe05a62290a5208"
+    }, 
+    "res/assets/simple/ItemRenderer/app_list_item_select.png": {
+      "md5": "aa141189bc07fa47115ed00b22a47a27"
+    }, 
+    "res/assets/simple/ItemRenderer/app_list_item_up.png": {
+      "md5": "517b00b2154900925325375fcd135624"
+    }, 
+    "res/assets/simple/NormalButton/button_disabled.png": {
+      "md5": "aaef36bd3e740c6bac393ec51d4e7626"
+    }, 
+    "res/assets/simple/NormalButton/button_down.png": {
+      "md5": "7f9068e56fa0de63f84fd8ad559da922"
+    }, 
+    "res/assets/simple/NormalButton/button_normal.png": {
+      "md5": "aaef36bd3e740c6bac393ec51d4e7626"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_off_label.png": {
+      "md5": "7b3ac27079676b7032413e7cca547639"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_off_thumb.png": {
+      "md5": "8c396e59b443ea000356520a525f4f1f"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_off_track.png": {
+      "md5": "bb9669926a0c9b281325cbbdde4cbe57"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_on_label.png": {
+      "md5": "af2ed51fdf7f897a3b501f76a5339f87"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_on_thumb.png": {
+      "md5": "8c396e59b443ea000356520a525f4f1f"
+    }, 
+    "res/assets/simple/ONOFFButton/onoffbutton_on_track.png": {
+      "md5": "941d9098e7d6397758f02deedb11266f"
+    }, 
+    "res/assets/simple/Panel/Panel_back.png": {
+      "md5": "0c7397c5809792ae6903a4e615aee270"
+    }, 
+    "res/assets/simple/Panel/Panel_headeBack.png": {
+      "md5": "fec981d53b394af9efeb4ce7a10ab8bf"
+    }, 
+    "res/assets/simple/ProgressBar/Progressbar_fill.png": {
+      "md5": "f25f011cf78feef303c8bfdbdd012894"
+    }, 
+    "res/assets/simple/ProgressBar/Progressbar_track.png": {
+      "md5": "8e9bedc8495d08ce39443ebadd31b343"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_select_disabled.png": {
+      "md5": "0fd5e7fa92b565032e7bf4d0a613ece5"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_select_normal.png": {
+      "md5": "c3112a161be178c5a6931043b2f6c74d"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_select_over.png": {
+      "md5": "b259472fc141ec5019dc8ead375eab10"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_unselect_disabled.png": {
+      "md5": "7f8b4c94347b3d0fbbddddb6a94f1488"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_unselect_normal.png": {
+      "md5": "c637bc988999f04dd60ac76d9327676b"
+    }, 
+    "res/assets/simple/RadioButton/RadioButton_unselect_over.png": {
+      "md5": "63189f801b25e5fad1e5a7370eca7d6f"
+    }, 
+    "res/assets/simple/TabBar/Tab Bar_select.png": {
+      "md5": "83e5e9e0dc12093fc33d63a1a44a50ee"
+    }, 
+    "res/assets/simple/TextInput/textbox.png": {
+      "md5": "3571d48be3fde80671df9af85a52aeac"
+    }, 
+    "res/assets/simple/TitleWindow/closebtn_disabled.png": {
+      "md5": "19e3860f1ed52d3ee898150720ae9184"
+    }, 
+    "res/assets/simple/TitleWindow/closebtn_down.png": {
+      "md5": "79c369024381896553019450e751f567"
+    }, 
+    "res/assets/simple/TitleWindow/closebtn_up.png": {
+      "md5": "ef037f404492601638509ba684077394"
+    }, 
+    "res/assets/simple/ToggleButton/togglebutton_disabled.png": {
+      "md5": "0bdcd136534be36981249b36fcc5a0f3"
+    }, 
+    "res/assets/simple/ToggleButton/togglebutton_normal.png": {
+      "md5": "0bdcd136534be36981249b36fcc5a0f3"
+    }, 
+    "res/assets/simple/ToggleButton/togglebutton_over.png": {
+      "md5": "8b9d7b29eb0e869358e95bdfcc4cba0c"
+    }, 
+    "res/assets/simple/ToggleButton/togglebutton_selected.png": {
+      "md5": "8b9d7b29eb0e869358e95bdfcc4cba0c"
+    }, 
+    "res/assets/simple/Tree/tree_back.png": {
+      "md5": "0219c5410435cd3e6658ab0b99edff8a"
+    }, 
+    "res/assets/simple/Tree/tree_btnDisabled.png": {
+      "md5": "d1740edb943fc90a5a8437f1d44d8ffd"
+    }, 
+    "res/assets/simple/Tree/tree_btnDisabledSelect.png": {
+      "md5": "396cc0a9d755bb7e4574ebfe0576d2e2"
+    }, 
+    "res/assets/simple/Tree/tree_btnDown.png": {
+      "md5": "955b91a2921c807ceb334c0f73920def"
+    }, 
+    "res/assets/simple/Tree/tree_btnDownSelect.png": {
+      "md5": "de9faf523e0c81bb259cece1be2fe739"
+    }, 
+    "res/assets/simple/Tree/tree_btnUp.png": {
+      "md5": "136b25e178904c20d4bd96c7c73e2086"
+    }, 
+    "res/assets/simple/Tree/tree_btnUpSelect.png": {
+      "md5": "d9158476d8cea105e158ab691815d631"
+    }, 
+    "res/assets/simple/Tree/tree_icon_dir.png": {
+      "md5": "07b4454f58e1a3f911a6726f1be680e6"
+    }, 
+    "res/assets/simple/Tree/tree_icon_file.png": {
+      "md5": "045e1ca82732cb4926bd7a9ea81c7e4d"
+    }, 
+    "res/assets/simple/VScrollBar/vscrollbtn.png": {
+      "md5": "1ac5f74131f787bc898252b076933712"
+    }, 
+    "res/assets/simple/VScrollBar/vscrolltrack.png": {
+      "md5": "830afe9e352561e0c83e0ff637e412a4"
+    }, 
+    "res/assets/simple/VSlider/VSlider_fill.png": {
+      "md5": "c2f77aff02ab51c3b2f00d772a7ac82d"
+    }, 
+    "res/assets/simple/VSlider/VSlider_thumb.png": {
+      "md5": "c637bc988999f04dd60ac76d9327676b"
+    }, 
+    "res/assets/simple/VSlider/VSlider_track.png": {
+      "md5": "f6f313938799d2c82db89f4fa33377d9"
+    }, 
+    "res/assets/ui/-10.png": {
+      "md5": "475926507afa8849d7f0c29e49bad2fe"
+    }, 
+    "res/assets/ui/baoji.png": {
+      "md5": "541c9ddd1aacbca26ca500817c0cc4ea"
+    }, 
+    "res/assets/ui/btnAttack.png": {
+      "md5": "f2965bf2affd59abcd5929738104e0a4"
+    }, 
+    "res/assets/ui/btnAttack1.png": {
+      "md5": "cfd8ada74226f42627764f4405ce4615"
+    }, 
+    "res/assets/ui/btnSkill1.png": {
+      "md5": "bd423e5dc2808f7066875a3c06061aad"
+    }, 
+    "res/assets/ui/btnSkill1_1.png": {
+      "md5": "dfe181b11087d86eaa528305a523dc5e"
+    }, 
+    "res/assets/ui/btnSkill2.png": {
+      "md5": "7e7c24d4e4ba781e9b5b0f70a53c126e"
+    }, 
+    "res/assets/ui/btnSkill2_1.png": {
+      "md5": "20160956c8227c778dbd759dde34f5ba"
+    }, 
+    "res/assets/ui/btnSkill3.png": {
+      "md5": "77f717fa450b9898e3a738c31abc92ba"
+    }, 
+    "res/assets/ui/btnSkill3_1.png": {
+      "md5": "01ed68a006e87f04f8a1cc4e238a60fa"
+    }, 
+    "res/assets/ui/btnSkill4.png": {
+      "md5": "3c8b43afc177fb877926d9fc628467e7"
+    }, 
+    "res/assets/ui/btnSkill4_1.png": {
+      "md5": "902cd0ac9877764c5e4a240149d1946a"
+    }, 
+    "res/assets/ui/move.png": {
+      "md5": "93cf8f28a1a5048006839bb8d84bab9f"
+    }, 
+    "res/assets/ui/moveBg.png": {
+      "md5": "edd9a2e00560dd3b16d3c912baec1e52"
+    }, 
+    "res/config/attack.json": {
+      "md5": "0baab86981f07897f3bfab54764bde3d"
+    }, 
+    "res/config/global.json": {
+      "md5": "481b6424d9aad079bc115af980a5aeb7"
+    }, 
+    "res/default.res.json": {
+      "md5": "a901ea7d29524a512ba7601eadc6b11b"
+    }, 
+    "res/default.thm.json": {
+      "md5": "99bef731c31f756cd49eec0365b48c65"
+    }, 
+    "res/eui_assets/Button/button_down.png": {
+      "md5": "878334d13048afd6b6b061e8b156dadb"
+    }, 
+    "res/eui_assets/Button/button_up.png": {
+      "md5": "a6341a65c7155a4edbbf1f39bc7932d9"
+    }, 
+    "res/eui_assets/CheckBox/checkbox_select_disabled.png": {
+      "md5": "dd9aa43f0bf6cbb969f7cfa238734ee9"
+    }, 
+    "res/eui_assets/CheckBox/checkbox_select_down.png": {
+      "md5": "71e5f029838a1b6ffc11198097555e4b"
+    }, 
+    "res/eui_assets/CheckBox/checkbox_select_up.png": {
+      "md5": "68a00c5f12172b1a2f658925d69a998b"
+    }, 
+    "res/eui_assets/CheckBox/checkbox_unselect.png": {
+      "md5": "2ffa97740e6d6ea0b005b4465255b098"
+    }, 
+    "res/eui_assets/ItemRenderer/selected.png": {
+      "md5": "94efb85255bad50f4b5c1b44f7190d0d"
+    }, 
+    "res/eui_assets/Panel/border.png": {
+      "md5": "a4ff3e088a39fef12556e404e768244a"
+    }, 
+    "res/eui_assets/Panel/header.png": {
+      "md5": "46c313e8c024d3bf069767075842b713"
+    }, 
+    "res/eui_assets/ProgressBar/thumb_pb.png": {
+      "md5": "903295905d99cabc4c2b679959d55373"
+    }, 
+    "res/eui_assets/ProgressBar/track_pb.png": {
+      "md5": "60e6154d678d5e516dfe3f84b47dd894"
+    }, 
+    "res/eui_assets/RadioButton/radiobutton_select_disabled.png": {
+      "md5": "725d226305491301ca8cce8aa68d08d6"
+    }, 
+    "res/eui_assets/RadioButton/radiobutton_select_down.png": {
+      "md5": "725d226305491301ca8cce8aa68d08d6"
+    }, 
+    "res/eui_assets/RadioButton/radiobutton_select_up.png": {
+      "md5": "bf16aacfe9b30037835e1c6482eee507"
+    }, 
+    "res/eui_assets/RadioButton/radiobutton_unselect.png": {
+      "md5": "cd40270b37ab3a5248ea2c61f883934c"
+    }, 
+    "res/eui_assets/ScrollBar/roundthumb.png": {
+      "md5": "5f550ff68f1240501f035fdc0eda0843"
+    }, 
+    "res/eui_assets/ScrollBar/track_sb.png": {
+      "md5": "541048214115efe2a7a2750cde6b4e54"
+    }, 
+    "res/eui_assets/Slider/thumb.png": {
+      "md5": "ac46ad4174244342194e74667d57cf1d"
+    }, 
+    "res/eui_assets/Slider/track.png": {
+      "md5": "541048214115efe2a7a2750cde6b4e54"
+    }, 
+    "res/eui_assets/Slider/tracklight.png": {
+      "md5": "5f550ff68f1240501f035fdc0eda0843"
+    }, 
+    "res/eui_assets/ToggleSwitch/handle.png": {
+      "md5": "1b0a0f006c66a7264ab62a897076bd12"
+    }, 
+    "res/eui_assets/ToggleSwitch/off.png": {
+      "md5": "808df10161bd36abd6600f16e131aca3"
+    }, 
+    "res/eui_assets/ToggleSwitch/on.png": {
+      "md5": "1dccf23d316f65d77c6497d3de987b1d"
+    }, 
+    "res/eui_skins/ButtonSkin.exml": {
+      "md5": "bfff854fce3d41d3209eab9c12077f24"
+    }, 
+    "res/eui_skins/CheckBoxSkin.exml": {
+      "md5": "a347ed508f79a89a77d1f35e8b68b9fa"
+    }, 
+    "res/eui_skins/HScrollBarSkin.exml": {
+      "md5": "97193773a32301bccdc57133010a5f25"
+    }, 
+    "res/eui_skins/HSliderSkin.exml": {
+      "md5": "25ce0a76d98a70f443742e5741c7c04c"
+    }, 
+    "res/eui_skins/ItemRendererSkin.exml": {
+      "md5": "c7cce9d9741b0118d984a73cd92b4f3d"
+    }, 
+    "res/eui_skins/PanelSkin.exml": {
+      "md5": "164c0ef65ccdf97628a0617af3e3b28e"
+    }, 
+    "res/eui_skins/ProgressBarSkin.exml": {
+      "md5": "03cf2cd7fa3966c55c600b0b39abd334"
+    }, 
+    "res/eui_skins/RadioButtonSkin.exml": {
+      "md5": "cca5b53d5b7d64cfc26fe5d5ac9c16a9"
+    }, 
+    "res/eui_skins/ScrollerSkin.exml": {
+      "md5": "f2792704f96b39b9316c13491ca9034b"
+    }, 
+    "res/eui_skins/TextInputSkin.exml": {
+      "md5": "3a724dba35dafe98e24d863e758dea2b"
+    }, 
+    "res/eui_skins/ToggleSwitchSkin.exml": {
+      "md5": "1e8ffc7a17bf28aa9dcf55680e5f72a9"
+    }, 
+    "res/eui_skins/VScrollBarSkin.exml": {
+      "md5": "59c918398b776b8f6b9a772b8bd3d2fc"
+    }, 
+    "res/eui_skins/VSliderSkin.exml": {
+      "md5": "575ea772d2fab52d7496b5a535c1924a"
+    }, 
+    "res/font/font.fnt": {
+      "md5": "720d0fbb2697900383a330c7bef7b7a6"
+    }, 
+    "res/font/font.png": {
+      "md5": "e5480b5673fc72ba2f0c5a05583235cb"
+    }, 
+    "res/proto/simple.json": {
+      "md5": "c5fae9780277185ed2ffbf95831b4040"
+    }, 
+    "res/resource_battle.json": {
+      "md5": "e232417392656ad3fa054772aaf251c4"
+    }, 
+    "res/resource_core.json": {
+      "md5": "444e6a0f49519b615a4a6fe5d6357a35"
+    }, 
+    "res/resource_rpg.json": {
+      "md5": "3bc61ff517f7bf87b84dbec68ab7c978"
+    }, 
+    "res/resource_ui.json": {
+      "md5": "7f1c4c2cfb5050f6cbe5d695a929f458"
+    }, 
+    "res/resource_version.json": {
+      "md5": "b4d428c0bd59e067b49d9b5ddfba60bf"
+    }, 
+    "res/rotateBg.png": {
+      "md5": "ff4909eea3c754e4e229f25f28f6bd19"
+    }, 
+    "res/skins/GuiScreenSkin.exml": {
+      "md5": "1e63a619196534d91d25ef9271586edd"
+    }, 
+    "res/skins/LoadingUISkin.exml": {
+      "md5": "ea6a22a1c5dd93f162f2d2bec60dd3ce"
+    }, 
+    "res/skins/MenuButtonSkin.exml": {
+      "md5": "86e39e688152068b0e20993c26a3e9fe"
+    }, 
+    "res/skins/MenuSkin.exml": {
+      "md5": "8194b2fb59f8af3f7c63f1b033a99d88"
+    }, 
+    "res/skins/PanelSkin.exml": {
+      "md5": "32f40723b1236b130f2430c751ac75c8"
+    }, 
+    "res/skins/SaleItemSkin.exml": {
+      "md5": "800491402207bd22fc0f92ddbefe3d27"
+    }, 
+    "res/skins/TabBarButtonSkin.exml": {
+      "md5": "04912994b117f27ddfffa4597d8c307a"
+    }, 
+    "res/skins/TabBarSkin.exml": {
+      "md5": "1617130a65c883c97bd229d59c9d1fa3"
+    }, 
+    "res/skins/TaskItemRendererSkin.exml": {
+      "md5": "281f4e4bd2adf1d207cb27d0042dc7d7"
+    }, 
+    "res/sound/beiji.wav": {
+      "md5": "9f67302cb4195c496255afd0d9e35b2a"
+    }, 
+    "res/sound/bg.mp3": {
+      "md5": "94367d109366479a531883f51a31ccec"
+    }, 
+    "res/sound/bossAttack.mp3": {
+      "md5": "447cf51e49453303e51f333ad5df808b"
+    }, 
+    "res/sound/bossSkill.mp3": {
+      "md5": "48b28517255485a6f5782091228af8bf"
+    }, 
+    "res/sound/dianji.mp3": {
+      "md5": "4d3acc6ba3431ba5d4a6496391086016"
+    }, 
+    "res/sound/enemyAttack.mp3": {
+      "md5": "29129bc3fd8c1e187592b46244a55bc0"
+    }, 
+    "res/sound/enenyLand.wav": {
+      "md5": "f6531305b27c7b684f75ae9d64cf9afd"
+    }, 
+    "res/sound/heroAttack.wav": {
+      "md5": "9cfacc67fc2cb9ebc88b3534d32cabfe"
+    }, 
+    "res/sound/heroBeiji.wav": {
+      "md5": "5c498246e70a8f29252f6b61b5fa468f"
+    }, 
+    "res/sound/heroSkill.mp3": {
+      "md5": "22553c4d0436da991c66c4707176d6fb"
+    }, 
+    "src/LoadingUI.ts": {
+      "md5": "9e2adaf91886d5c3ab5437d50332d603"
+    }, 
+    "src/Main.ts": {
+      "md5": "5f439e981000127420c350428682dbd4"
+    }, 
+    "src/core/App.ts": {
+      "md5": "cea34170f199d4348f4c3e3b6987ae29"
+    }, 
+    "src/core/adapter/AssetAdapter.ts": {
+      "md5": "7195734fa69576a190c3eafd4651a8da"
+    }, 
+    "src/core/adapter/MergeJsonAnalyzer.ts": {
+      "md5": "3653612965c805aa73d6bda38f98f4b8"
+    }, 
+    "src/core/adapter/ThemeAdapter.ts": {
+      "md5": "47f49101f1e55af6685d55b5448f7d98"
+    }, 
+    "src/core/base/SingtonClass.ts": {
+      "md5": "b4b05e7789e20f0893f372e33b12f3d7"
+    }, 
+    "src/core/consts/Keyboard.ts": {
+      "md5": "05b81efcd1a2d7ed51812c7030a63685"
+    }, 
+    "src/core/display/BitmapNumber.ts": {
+      "md5": "2b2611f9aacc283b39f6a5b0a66bd92c"
+    }, 
+    "src/core/display/HotspotBitmap.ts": {
+      "md5": "4b41a8332ff330e5ecb6c75cafd438e6"
+    }, 
+    "src/core/dragonBones/DragonBonesArmature.ts": {
+      "md5": "b786a44a1337e3cae1153fd669b21ac5"
+    }, 
+    "src/core/dragonBones/DragonBonesArmatureContainer.ts": {
+      "md5": "379ccc6f27f685f14228ddba8cd206d1"
+    }, 
+    "src/core/dragonBones/DragonBonesFactory.ts": {
+      "md5": "9bc216a70c8e17cb52652ebc5d8f3a35"
+    }, 
+    "src/core/module/guide/GuideMaskBackgroud.ts": {
+      "md5": "5c0203ae7977ee54b5c9638dbb6263b4"
+    }, 
+    "src/core/module/guide/GuideUtils.ts": {
+      "md5": "c7b0113b903352ae631face8fc82ada8"
+    }, 
+    "src/core/module/guide/GuideView.ts": {
+      "md5": "a5853b7f8adddaa2d6b700c51fe9e874"
+    }, 
+    "src/core/module/loading/EasyLoading.ts": {
+      "md5": "dba24f85daa0c6077311f514ca36a262"
+    }, 
+    "src/core/mvc/ControllerManager.ts": {
+      "md5": "b37ee697f1cf5bd47b2f64249791b940"
+    }, 
+    "src/core/mvc/ViewManager.ts": {
+      "md5": "987707196c0cf3dad95b223c26566dee"
+    }, 
+    "src/core/mvc/controller/BaseController.ts": {
+      "md5": "958aebf70ae00dbbb8e0f1e3b477f32e"
+    }, 
+    "src/core/mvc/model/BaseModel.ts": {
+      "md5": "e6848186d6611edd4fd6b8dd19f2f3ee"
+    }, 
+    "src/core/mvc/proxy/BaseProxy.ts": {
+      "md5": "1d70a4776e4565c556a996adb8d13cf6"
+    }, 
+    "src/core/mvc/view/BaseEuiView.ts": {
+      "md5": "4c9f1be743593a0fcd897f5cf8939857"
+    }, 
+    "src/core/mvc/view/BaseSpriteView.ts": {
+      "md5": "bce3708c1d22397e6a15e14fb7347fe8"
+    }, 
+    "src/core/mvc/view/IBaseView.ts": {
+      "md5": "50bf5b52ac98593a82f7ce917f803239"
+    }, 
+    "src/core/net/http/DataCache.ts": {
+      "md5": "4258dfa69c3f13d0b3def3744c55b4fc"
+    }, 
+    "src/core/net/http/DataUpdate.ts": {
+      "md5": "dedc85c1922a94f83ea5f7bae8e2be84"
+    }, 
+    "src/core/net/http/Http.ts": {
+      "md5": "512a585e205dac76948ef204f9143eed"
+    }, 
+    "src/core/net/socket/BaseMsg.ts": {
+      "md5": "a02d9193cb67a265a00d77434a0e860b"
+    }, 
+    "src/core/net/socket/ByteArrayMsg.ts": {
+      "md5": "5f206b890677e6dfbdb7914ee23f244b"
+    }, 
+    "src/core/net/socket/ByteArrayMsgByProtobuf.ts": {
+      "md5": "50d7c012e8f01d6e1a591fca6671d4ac"
+    }, 
+    "src/core/net/socket/Socket.ts": {
+      "md5": "c771a87fce813dd7aab9d098153e5d72"
+    }, 
+    "src/core/net/socket/SocketConst.ts": {
+      "md5": "450e46e015b06940ea5d7c6ce0b0e79b"
+    }, 
+    "src/core/net/socket/UTFMsg.ts": {
+      "md5": "0f795817fdef046dd8ef154b6a1cecbb"
+    }, 
+    "src/core/net/socket/UTFMsgByJson.ts": {
+      "md5": "b695a98cfc7cd04aa75685474003a6d9"
+    }, 
+    "src/core/scene/base/BaseEuiLayer.ts": {
+      "md5": "78d958f7b081242522b31b4316ae4c41"
+    }, 
+    "src/core/scene/base/BaseScene.ts": {
+      "md5": "183fae851d918af21357ec34c6391682"
+    }, 
+    "src/core/scene/base/BaseSpriteLayer.ts": {
+      "md5": "01406fe1b1b45c6a1772fa2f3d1c7dc4"
+    }, 
+    "src/core/scene/manager/SceneManager.ts": {
+      "md5": "6015c6661be12ee52881b54be4c1875c"
+    }, 
+    "src/core/sound/BaseSound.ts": {
+      "md5": "141b88ec2a1baf28ec5b1541a39979b5"
+    }, 
+    "src/core/sound/ISoundBg.ts": {
+      "md5": "3ee2465e9bc0804b51c5a74c5f2966fa"
+    }, 
+    "src/core/sound/ISoundEffect.ts": {
+      "md5": "39b2d73a7b176392bef7a74840fc43f5"
+    }, 
+    "src/core/sound/SoundBg.ts": {
+      "md5": "1a931999cf89bf4263d7bd5e8f7278d5"
+    }, 
+    "src/core/sound/SoundBgWx.ts": {
+      "md5": "d061d6f791859aa66d3eae0f219e0103"
+    }, 
+    "src/core/sound/SoundEffect.ts": {
+      "md5": "20d6e0c28ed0c8707981ad6ae92a5002"
+    }, 
+    "src/core/sound/SoundEffectWx.ts": {
+      "md5": "0d8ad0ea63bf3e0caa273164ba69b662"
+    }, 
+    "src/core/sound/SoundManager.ts": {
+      "md5": "bd5b810e248cf0d45c07b7c7df95f828"
+    }, 
+    "src/core/starlingswf/Swf.ts": {
+      "md5": "df2a113f3ce66a22188ec5a7d7b23d6d"
+    }, 
+    "src/core/starlingswf/SwfAssetManager.ts": {
+      "md5": "bcb0f154e91f59305ae6bac31cde235f"
+    }, 
+    "src/core/starlingswf/SwfUpdateManager.ts": {
+      "md5": "dedcf1540d4495f69bcb07a262b61890"
+    }, 
+    "src/core/starlingswf/display/ISwfAnimation.ts": {
+      "md5": "58a29be1db464e7528fb13503774e698"
+    }, 
+    "src/core/starlingswf/display/SwfMovieClip.ts": {
+      "md5": "8f1921fa1cf40f0aef8b5c4e0fd4774b"
+    }, 
+    "src/core/starlingswf/display/SwfSprite.ts": {
+      "md5": "4f15fe0c35b2aeb51fcf0bf9887f2465"
+    }, 
+    "src/core/starlingswf/game/StarlingSwfFactory.ts": {
+      "md5": "4a31d070699d5f1abaddd0635e5bf0d8"
+    }, 
+    "src/core/starlingswf/game/StarlingSwfMovieClip.ts": {
+      "md5": "7529c6bf148e0ed918522538d9be4d16"
+    }, 
+    "src/core/starlingswf/game/StarlingSwfUtils.ts": {
+      "md5": "0e4e5e14071622e1ba9eb5327004e611"
+    }, 
+    "src/core/utils/AllAsyncExecutor.ts": {
+      "md5": "6ea5afdf7f247d426f92a653e49018b9"
+    }, 
+    "src/core/utils/AnchorUtils.ts": {
+      "md5": "1fd605a511f7a5f2b74ecc9d4a494413"
+    }, 
+    "src/core/utils/ArrayUtils.ts": {
+      "md5": "28dc56d43f6f413bce26500ecb50a121"
+    }, 
+    "src/core/utils/AverageUtils.ts": {
+      "md5": "3a4b90c0d9cd58b0c7a2749a4b801dd1"
+    }, 
+    "src/core/utils/CommonUtils.ts": {
+      "md5": "af8cf87d953749a4f775542b32e3ceed"
+    }, 
+    "src/core/utils/DateUtils.ts": {
+      "md5": "3dd1756efbae2eec48d2c8f6804367a2"
+    }, 
+    "src/core/utils/DebugUtils.ts": {
+      "md5": "e1b8c434c21f048f682d29d99b483d83"
+    }, 
+    "src/core/utils/DelayOptManager.ts": {
+      "md5": "9c9b0d1820b7555c83f4881e017ac859"
+    }, 
+    "src/core/utils/DeviceUtils.ts": {
+      "md5": "83fee2472ff4f61d3408da5b0f119584"
+    }, 
+    "src/core/utils/DisplayUtils.ts": {
+      "md5": "fab2ce8df629bcc28e2d97961b8b10f5"
+    }, 
+    "src/core/utils/EffectUtils.ts": {
+      "md5": "5a43c892771003f57729a6c65f680113"
+    }, 
+    "src/core/utils/EgretExpandUtils.ts": {
+      "md5": "c3ca2a4618edb9b8af5270e259af56c8"
+    }, 
+    "src/core/utils/FrameDelay.ts": {
+      "md5": "ec843867a53b798daed0a7c2f1bf9626"
+    }, 
+    "src/core/utils/FrameExecutor.ts": {
+      "md5": "6678840413656cccd775277b5d31a235"
+    }, 
+    "src/core/utils/KeyboardUtils.ts": {
+      "md5": "cf15aec61c15d4d3962aafaabf602317"
+    }, 
+    "src/core/utils/LocationPropertyUtils.ts": {
+      "md5": "89fc1201813afe382a7c1ea09d07457b"
+    }, 
+    "src/core/utils/Log.ts": {
+      "md5": "abf0b632fc33eec1aa6fc15a367cda3d"
+    }, 
+    "src/core/utils/MathUtils.ts": {
+      "md5": "503194aec7f8fe4e1e65da0469967ef0"
+    }, 
+    "src/core/utils/MessageCenter.ts": {
+      "md5": "ae94167d0c2bf86d7a118d69234fa4a0"
+    }, 
+    "src/core/utils/ObjectPool.ts": {
+      "md5": "56218cf1fae850942f3c8e2ec997abbf"
+    }, 
+    "src/core/utils/Percent.ts": {
+      "md5": "2b1d7b1607d43f5b0160ae24b53e6e8c"
+    }, 
+    "src/core/utils/QueueExecutor.ts": {
+      "md5": "ed5e0289beb146d9029f91e6165aa06b"
+    }, 
+    "src/core/utils/RandomUtils.ts": {
+      "md5": "2e3ec9b8e04632215f5bd0c51a184a98"
+    }, 
+    "src/core/utils/RenderTextureManager.ts": {
+      "md5": "aef9fe038fd1fc65c15fd1ec5b24568e"
+    }, 
+    "src/core/utils/ResourceUtils.ts": {
+      "md5": "636e1643f5fc001eac1ef907e3b57f5e"
+    }, 
+    "src/core/utils/RockerUtils.ts": {
+      "md5": "4e4dd8c9eb3c58b9f6aa04814d88e42c"
+    }, 
+    "src/core/utils/ShockUtils.ts": {
+      "md5": "380711af4ac5d1013bb7e2466f6aa5e4"
+    }, 
+    "src/core/utils/StageUtils.ts": {
+      "md5": "f91820f07ab3a060619c1a3b77afc95b"
+    }, 
+    "src/core/utils/StringBuffer.ts": {
+      "md5": "d0a97cecf6ed06ee937079243e7741df"
+    }, 
+    "src/core/utils/StringUtils.ts": {
+      "md5": "1762c5a23c156841158231650bf99def"
+    }, 
+    "src/core/utils/TextFlowMaker.ts": {
+      "md5": "f7d94ca7268c164cb7bfeb3a39252840"
+    }, 
+    "src/core/utils/TimerManager.ts": {
+      "md5": "d34982bd3ce9823e58b7d52017882daa"
+    }, 
+    "src/core/utils/TouchEventHook.ts": {
+      "md5": "af5f03d737eac352cfc4f8bc86209f95"
+    }, 
+    "src/core/utils/TweenUtils.ts": {
+      "md5": "c567c9c139eddc6e5cb3216b5bf0ad34"
+    }, 
+    "src/core/utils/md5.ts": {
+      "md5": "ef3701f03f5880061bdcc0775b30a0cf"
+    }, 
+    "src/example/consts/ControllerConst.ts": {
+      "md5": "fc4da1a206087cb0854169431870cd4b"
+    }, 
+    "src/example/consts/HttpConst.ts": {
+      "md5": "82a07b5d0222f279377e35c2755e7d6c"
+    }, 
+    "src/example/consts/SceneConsts.ts": {
+      "md5": "0d34fd4f12be8112380f3c8c2c9cb090"
+    }, 
+    "src/example/consts/ViewConst.ts": {
+      "md5": "90a79e32f57eede02a9540e493ce664c"
+    }, 
+    "src/example/module/base/BasePanelView.ts": {
+      "md5": "8f30d12710664bfb888926af0e3071ce"
+    }, 
+    "src/example/module/components/Menu.ts": {
+      "md5": "bbb409a242495c0c991bd0702a462bd7"
+    }, 
+    "src/example/module/components/SaleItemRenderer.ts": {
+      "md5": "e3b93a5aea43c8c824895e6f43fd030f"
+    }, 
+    "src/example/module/components/TabBarButton.ts": {
+      "md5": "f8afe87864fa428b901ff799c7be9bf5"
+    }, 
+    "src/example/module/components/TabBarContainer.ts": {
+      "md5": "1d96e6185b4ad6e3522b67a2546e0834"
+    }, 
+    "src/example/module/components/TaskItemRenderer.ts": {
+      "md5": "ba94a671af398bbbb6e60910df8c48b5"
+    }, 
+    "src/example/module/factory/FactoryController.ts": {
+      "md5": "e634997b9cff30f5a027d1134eea3e82"
+    }, 
+    "src/example/module/factory/FactoryView.ts": {
+      "md5": "f0c0ee066bb80cb8fcccee0e9b7e80a7"
+    }, 
+    "src/example/module/friend/FriendController.ts": {
+      "md5": "44cdcad9f18cbe4ceeecd50c5af63c3f"
+    }, 
+    "src/example/module/friend/FriendView.ts": {
+      "md5": "1ae1ad2f3fe1a81c05e9796d32dadf48"
+    }, 
+    "src/example/module/game/GameConst.ts": {
+      "md5": "248e852326f7ca1a425f7c381e738659"
+    }, 
+    "src/example/module/game/GameController.ts": {
+      "md5": "40380275bd82c0d8a8676b6a7156f204"
+    }, 
+    "src/example/module/game/GameData.ts": {
+      "md5": "40e654d0266eed095f1eae7b94a41c8a"
+    }, 
+    "src/example/module/game/GameUIView.ts": {
+      "md5": "d29c826c3e16af22082fd3f751352def"
+    }, 
+    "src/example/module/game/GameView.ts": {
+      "md5": "a945a64b5e005f206f6d21b1e9070cb3"
+    }, 
+    "src/example/module/game/MyButton.ts": {
+      "md5": "2c241b04249fb5c6cf5238253db67bb0"
+    }, 
+    "src/example/module/game/object/BaseAIGameObject.ts": {
+      "md5": "678291a11339e4cb29cd68e9668119c3"
+    }, 
+    "src/example/module/game/object/BaseFrameGameObject.ts": {
+      "md5": "f32aa1b8da49e7075bb41af297b29672"
+    }, 
+    "src/example/module/game/object/BaseGameObject.ts": {
+      "md5": "e974911763f851a62a3569c0a0658792"
+    }, 
+    "src/example/module/game/object/BaseHitGameObject.ts": {
+      "md5": "870c961a9c708e27b3a98244eb323dcc"
+    }, 
+    "src/example/module/game/object/BaseMoveGameObject.ts": {
+      "md5": "e8f39713aaeaded29c158ed1b2dd8846"
+    }, 
+    "src/example/module/game/object/Boss.ts": {
+      "md5": "259df8ce1e8a9ebe3cc86e57b820d3db"
+    }, 
+    "src/example/module/game/object/Enemy.ts": {
+      "md5": "966cc6d883e58c60a578fdc7d94059b8"
+    }, 
+    "src/example/module/game/object/Hero.ts": {
+      "md5": "b0008ff674a5405d95254bb820cd68c3"
+    }, 
+    "src/example/module/home/HomeConst.ts": {
+      "md5": "7d37bc9d7bcd09b6c555b6fa8f89dfd4"
+    }, 
+    "src/example/module/home/HomeController.ts": {
+      "md5": "b83281fc1b05cc9aa32041dcf664142f"
+    }, 
+    "src/example/module/home/HomeProxy.ts": {
+      "md5": "30e48035cc4d3a03647d81191d0328cd"
+    }, 
+    "src/example/module/home/HomeView.ts": {
+      "md5": "76fb8a7c9331f0eed46061cec124e4ef"
+    }, 
+    "src/example/module/loading/LoadingConst.ts": {
+      "md5": "0f446a46fcf89a3a343224b3baae44c0"
+    }, 
+    "src/example/module/loading/LoadingController.ts": {
+      "md5": "56dbde843b8bb4083ede4cb43ac42618"
+    }, 
+    "src/example/module/loading/LoadingView.ts": {
+      "md5": "a6f8a226e188be69ca3436613b4623a6"
+    }, 
+    "src/example/module/login/LoginConst.ts": {
+      "md5": "fb3a457426a6b3cddf1e4df04b41f06e"
+    }, 
+    "src/example/module/login/LoginController.ts": {
+      "md5": "c456173d79d42150bf16a99ebf1ecb2b"
+    }, 
+    "src/example/module/login/LoginModel.ts": {
+      "md5": "6d493c205e9a0eb504f7ea1f7819506e"
+    }, 
+    "src/example/module/login/LoginProxy.ts": {
+      "md5": "ce31b446675fa789505ea3f989cc1176"
+    }, 
+    "src/example/module/login/LoginView.ts": {
+      "md5": "45b304766ea1809a145fe17bfe743fcb"
+    }, 
+    "src/example/module/mail/MailController.ts": {
+      "md5": "b9e5a3c81b54842863a618f59e3ae2c3"
+    }, 
+    "src/example/module/mail/MailView.ts": {
+      "md5": "4f09684c35e1c3b11ee7a9282ea5b418"
+    }, 
+    "src/example/module/rpgGame/RpgGameConst.ts": {
+      "md5": "bee99f5e1fbb8cf3654258819f599cbf"
+    }, 
+    "src/example/module/rpgGame/RpgGameController.ts": {
+      "md5": "45374a4dc936abc172e2b0e543c29995"
+    }, 
+    "src/example/module/rpgGame/RpgGameData.ts": {
+      "md5": "60d73e3737aef501aaef7eae57bbb264"
+    }, 
+    "src/example/module/rpgGame/RpgGameModel.ts": {
+      "md5": "c11b7e949ed03b112dbbd894d73fb48e"
+    }, 
+    "src/example/module/rpgGame/RpgGameRes.ts": {
+      "md5": "cfcc6ad1aacc2496e70e3872c97a6c2a"
+    }, 
+    "src/example/module/rpgGame/RpgGameUtils.ts": {
+      "md5": "ba010bf24d85b982fbe68101aa4314f2"
+    }, 
+    "src/example/module/rpgGame/SilzAstar.ts": {
+      "md5": "2186ff29b1bdc68aac0d2cb4152c0998"
+    }, 
+    "src/example/module/rpgGame/components/AiComponent.ts": {
+      "md5": "b686e0088c4ec9f0f295ba18c79b5262"
+    }, 
+    "src/example/module/rpgGame/components/AoiComponent.ts": {
+      "md5": "4b60c9ca66f3c38230d1d4c91c5c2629"
+    }, 
+    "src/example/module/rpgGame/components/AutoBattleComponent.ts": {
+      "md5": "1c2da753c5c6da7d726c3d2fc7c3faf7"
+    }, 
+    "src/example/module/rpgGame/components/AvatarComponent.ts": {
+      "md5": "aa312d7c97d584e32c9005d2101efb6f"
+    }, 
+    "src/example/module/rpgGame/components/AvatarSkillComponent.ts": {
+      "md5": "449c7a60fb3ac8a1d15e1ba7433b88ce"
+    }, 
+    "src/example/module/rpgGame/components/BattleComponent.ts": {
+      "md5": "42666ac410f9e60f4b0bff34bf7a386d"
+    }, 
+    "src/example/module/rpgGame/components/CameraComponent.ts": {
+      "md5": "bdbd42233269c5d441ea1ab282a59b8b"
+    }, 
+    "src/example/module/rpgGame/components/Component.ts": {
+      "md5": "874137356289f5f271e1b1dba4cd26c6"
+    }, 
+    "src/example/module/rpgGame/components/ComponentSystem.ts": {
+      "md5": "05e5f19db4f027e8cdca2812da165c36"
+    }, 
+    "src/example/module/rpgGame/components/ComponentType.ts": {
+      "md5": "ef7a50cc9bba160a1529fefc40329240"
+    }, 
+    "src/example/module/rpgGame/components/ControlComponent.ts": {
+      "md5": "99168e66704c9101461fcbbe1b205178"
+    }, 
+    "src/example/module/rpgGame/components/HeadComponent.ts": {
+      "md5": "80118cbc5de183fbd4b2acc88e16350c"
+    }, 
+    "src/example/module/rpgGame/components/MoveComponent.ts": {
+      "md5": "e3ca115b17ac872e6b10aa81d3002f76"
+    }, 
+    "src/example/module/rpgGame/components/SortComponent.ts": {
+      "md5": "d0f1f91b4b908157c4c652e082962cf6"
+    }, 
+    "src/example/module/rpgGame/movieClip/RpgMovieClip.ts": {
+      "md5": "32b18b01cc9fea1422586358eeb8fb40"
+    }, 
+    "src/example/module/rpgGame/object/RpgGameObject.ts": {
+      "md5": "4f084a92eb27946806011e5ccc0cd829"
+    }, 
+    "src/example/module/rpgGame/object/RpgMonster.ts": {
+      "md5": "0928923f256cd7a1f919570d9aeaa876"
+    }, 
+    "src/example/module/rpgGame/object/RpgPlayer.ts": {
+      "md5": "965d59275c9230d21e75db7c0b19334a"
+    }, 
+    "src/example/module/rpgGame/view/RpgBackground.ts": {
+      "md5": "7276ce042cc02cb0fcb16b3344c18ef6"
+    }, 
+    "src/example/module/rpgGame/view/RpgGameView.ts": {
+      "md5": "dad4066e26823de853b7e4fd70650b8d"
+    }, 
+    "src/example/module/rpgGame/view/RpgTile.ts": {
+      "md5": "0c04a8830b71d531b4b5eedcefbe62c1"
+    }, 
+    "src/example/module/rpgGame/view/RpgTiles.ts": {
+      "md5": "a7fafd90763e2e8b29f9a835c5ce31e9"
+    }, 
+    "src/example/module/shop/ShopController.ts": {
+      "md5": "098cf9604859a37d4740c5b680c5ab7d"
+    }, 
+    "src/example/module/shop/ShopView.ts": {
+      "md5": "677e98647e816f1f45758540977c8052"
+    }, 
+    "src/example/module/task/BaseTaskView.ts": {
+      "md5": "39f6e34cc3493a0ddda5e64b7ec142f1"
+    }, 
+    "src/example/module/task/DailyView.ts": {
+      "md5": "7f66a7f5e06d8379840daa7dc5459de2"
+    }, 
+    "src/example/module/task/TaskController.ts": {
+      "md5": "f98e4ff3fcd27fa10a528c498a917359"
+    }, 
+    "src/example/module/task/TaskView.ts": {
+      "md5": "f81dd00da49929f0e53bdbaa5da5bcf7"
+    }, 
+    "src/example/module/warehouse/WarehouseController.ts": {
+      "md5": "9a9d21f22ba0ac312e4bcd3f63b2a36e"
+    }, 
+    "src/example/module/warehouse/WarehouseView.ts": {
+      "md5": "cb9a601aa2e4d33e3eaf0c08b27135e8"
+    }, 
+    "src/example/scene/GameScene.ts": {
+      "md5": "a514d8ae394f77f360c0edb3712b8d53"
+    }, 
+    "src/example/scene/LayerManager.ts": {
+      "md5": "b116298cafffd5e4885781222d515c1c"
+    }, 
+    "src/example/scene/LoadingScene.ts": {
+      "md5": "f3bfc864094952a8587829425044ec6d"
+    }, 
+    "src/example/scene/RpgGameScene.ts": {
+      "md5": "e1cd064359f89802ad7d2d36cce177ec"
+    }, 
+    "src/example/scene/UIScene.ts": {
+      "md5": "fe4ea1e3259b1b2a69725909ea29337f"
+    }, 
+    "src/example/test/ActTest.ts": {
+      "md5": "d86c5899a4c7917d4d74e1e9fc4a55a0"
+    }, 
+    "src/example/test/EUITest.ts": {
+      "md5": "aafdbebdb5f3cfb15f6ef54f49530491"
+    }, 
+    "src/example/test/ProtoBufTest.ts": {
+      "md5": "855365d8fc42be99321e659e79481eb0"
+    }, 
+    "src/example/test/RpgTest.ts": {
+      "md5": "44bfafce12c5147afbe20a6664477553"
+    }, 
+    "src/example/test/StarlingSwfTest.ts": {
+      "md5": "b349fa21664028551cf7135596de832b"
+    }
+  }, 
+  "engineVersion": "Quick-cocos2dx-3.3", 
+  "packageUrl": "http://ip:port/update/MyProj/assets/", 
+  "remoteManifestUrl": "http://ip:port/update/MyProj/version/project.manifest", 
+  "remoteVersionUrl": "http://ip:port/update/MyProj/version/version.manifest", 
+  "version": "1.1.0"
+}

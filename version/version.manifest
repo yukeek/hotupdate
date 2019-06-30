@@ -1,0 +1,7 @@
+{
+  "packageUrl": "http://ip:port/update/MyProj/assets/", 
+  "engineVersion": "Quick-cocos2dx-3.3", 
+  "version": "1.1.0", 
+  "remoteVersionUrl": "http://ip:port/update/MyProj/version/version.manifest", 
+  "remoteManifestUrl": "http://ip:port/update/MyProj/version/project.manifest"
+}

@@ -1,0 +1,20 @@
+{
+    "groups":[
+        {
+            "keys":"global,simple_config",
+            "name":"preload_core"
+        }
+    ],
+    "resources":[
+        {
+            "name":"global",
+            "type":"json",
+            "url":"config/global.json"
+        },
+        {
+            "name":"simple_config",
+            "type":"json",
+            "url":"proto/simple.json"
+        }
+    ]
+}

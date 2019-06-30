@@ -1,0 +1,2 @@
+python generateManifest.py
+pause
